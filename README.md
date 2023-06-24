@@ -4,7 +4,7 @@
   <a href="https://www.linkedin.com/in/sweta-padhy-43921a205/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.linkedin.com/in/sweta-padhy-43921a205/">
+  <a href="https://twitter.com/SwetaPadhy126">
   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
@@ -21,11 +21,11 @@
 ### :man_technologist: About Me :
   
   I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- :telescope: I’m student and working on frontend and backend for building web applications.
+- :telescope:I am currently engaged in developing both frontend and backend components to construct web applications..
 
 - :seedling: Hunting for knowledge and skills.
 
-- :zap:  I solve problems on GeeksforGeeks and read tech articles to improve my skills.
+- :zap:  I .
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkdIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sweta-padhy-43921a205/)
   ---
